@@ -1,6 +1,5 @@
 # Akan_name__generator
 
- ### Akan_name__generator
  ## Description 
  The project helps you to determine the day of the week you were born and assigns you a name
 
@@ -12,8 +11,11 @@
 
  ## Technology used
  HTML
+
  CSS
+
  Javascript
+ 
  GitHub
 
  ## Contact
